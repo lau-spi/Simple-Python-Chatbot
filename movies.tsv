@@ -1,4 +1,4 @@
-movie	title	date	time	genre	cast	runtime	synopsis	recommendation
+movie	title	date	time	type	actors	duration	synopsis	recommendation
 taken	Taken 2 2	saturday	8:00	comedy	Molly Weasley, Harry Potter, Elias M'Barek	159	Eine Hochzeit in der Küche endet im Unglück.	recommend
 bible	The Bible: The Movie	friday	7:30	romance	Angela Merkel, Angela Merkel, Angela Merkel	572	Nach dem Herzinfarkt seines Vaters findet sich Luke ganz allein in Timbuktu wieder. Doch ein zufälliges Treffen wird sein Leben verändern....	recommend
 blumen	Blumen pflücken in Islamabad	sunday	18:45	tragedy	George Clooney, Jennifer Lawrence, Jenny Müller	264	A birthday party goes awry when an affair is revealed.	not recommend

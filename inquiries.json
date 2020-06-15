@@ -118,7 +118,7 @@
                       "Till when is that?",
                       "Until when does harry potter run?"]
         },
-        {"tag": "runtime",
+        {"tag": "duration",
          "patterns": ["What's the runtime?", 
                       "What's its runtime?",
                       "How long does it run",
@@ -142,7 +142,7 @@
                       "When was that one on?",
                       "When is it on?"]
         },
-        {"tag": "genre",
+        {"tag": "type",
          "patterns": ["What genre is it from?",
                       "What genre is it?",
                       "Is it a comedy?",
@@ -168,7 +168,7 @@
                       "What is the genre of birthing a child?",
                       "Is it a horror movie?"]
         },
-        {"tag": "cast",
+        {"tag": "actors",
          "patterns": ["Who is starring in it?", 
                       "Who's starring in it?",
                       "Who is starring in this?", 
