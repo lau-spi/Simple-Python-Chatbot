@@ -189,7 +189,10 @@
                       "Who is playing Luke?",
                       "Who plays Darth vader?",
                       "Which actor plays Leya?",
-                      "What's the main cast in it?"]
+                      "What's the main cast in it?",
+                      "I want to know the actors in it",
+                      "Can you tell me the actors, please?",
+                      "Who are the actors?"]
         },
         {"tag": "synopsis",
          "patterns": ["Can you give me the synopsis?", 
